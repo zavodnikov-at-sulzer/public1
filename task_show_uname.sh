@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo usuck
+uname -a
