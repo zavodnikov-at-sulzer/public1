@@ -6,4 +6,6 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: task_show_uname.sh
+  path: echo
+  args: [hello foobar]
+ # path: task_show_uname.sh
